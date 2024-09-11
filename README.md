@@ -1,2 +1,2 @@
-# projeto-verificador-de-idade
+# verificador-de-idade
  praticando
